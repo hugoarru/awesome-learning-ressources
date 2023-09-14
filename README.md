@@ -17,3 +17,7 @@
 ### FR
 
 - :weight_lifting: [Exercises to learn how to use the css grid](https://cssgridgarden.com/)
+
+## Algorithmic
+
+- :game: [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine)
