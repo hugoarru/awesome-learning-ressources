@@ -20,4 +20,4 @@
 
 ## Algorithmic
 
-- :game: [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine)
+- :video_game: [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine)
