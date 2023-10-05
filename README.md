@@ -13,9 +13,13 @@
 - :book: [Openclassrooms course to learn the basics of javascript.](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript) 
 
 
-- :video : [Learn javaScript with grafikart 2022 update.](https://www.youtube.com/watch?v=asToYAq0F-I&list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV)
+- :tv: [Learn javaScript with grafikart 2022 update.](https://www.youtube.com/watch?v=asToYAq0F-I&list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV)
 
 ## Frontend integration
+
+### EN
+
+- :weight_lifting: [Frontend integration challenges](https://www.frontendmentor.io)
 
 ### FR
 
