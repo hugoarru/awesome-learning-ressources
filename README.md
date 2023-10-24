@@ -32,3 +32,7 @@
 ## Leasten Git an Github
 
 - :book: [Leasten pierre-giraud](https://www.pierre-giraud.com/git-github-apprendre-cours/fonctionnement-git/)
+
+## UI/UX design
+
+- ✨: [Figma community projects to find inspiration](https://www.figma.com/community)
