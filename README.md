@@ -29,7 +29,7 @@
 
 - :video_game: [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine)
 
-## Leasten Git an Github
+## Git an Github
 
 - :book: [Leasten pierre-giraud](https://www.pierre-giraud.com/git-github-apprendre-cours/fonctionnement-git/)
 
