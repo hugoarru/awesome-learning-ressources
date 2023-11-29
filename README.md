@@ -10,7 +10,9 @@
 
 ### FR
 
-- :book: [Openclassrooms course to learn the basics of javascript.](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript) 
+- :book: [Openclassrooms course to learn the basics of javascript.](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript)
+
+- 📖 [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
 
 
 - :tv: [Learn javaScript with grafikart 2022 update.](https://www.youtube.com/watch?v=asToYAq0F-I&list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV)
