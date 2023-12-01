@@ -32,6 +32,7 @@
 ## Git an Github
 
 - :book: [Leasten pierre-giraud](https://www.pierre-giraud.com/git-github-apprendre-cours/fonctionnement-git/)
+- :weight_lifting: [Git exercices](https://learngitbranching.js.org/?locale=fr_FR)
 
 ## UI/UX design
 
