@@ -30,6 +30,7 @@
 ## Algorithmic
 
 - :video_game: [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine)
+- :computer: [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms/)
 
 ## Git an Github
 
